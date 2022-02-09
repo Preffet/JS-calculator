@@ -1,5 +1,6 @@
 This project is a solution to freecodecamp "Front End Development Libraries" course "JavaScript Calculator" assignment.
 
+Link to Codepen: https://codepen.io/preffet/pen/eYeBJYX
 ### Assignment
 ### JavaScript Calculator
 
